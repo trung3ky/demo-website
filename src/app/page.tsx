@@ -38,7 +38,7 @@ const BRANCHES = {
     name: 'CS1: Trụ Sở Cầu Rồng (Lê Đình Dương)',
     address: '72-76 Lê Đình Dương, Phước Ninh, Hải Châu, Đà Nẵng',
     phone: '0901 408 449',
-    mapIframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m13!1d3833.896229388147!2d108.2173166!3d16.0593457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314219cc1a1d95cf%3A0xe744e8ec506ce5be!2s76%20L%C3%AA%20%C4%90%E1%BB%93ng%20D%C6%B0%C6%A1ng%2C%20Ph%C6%B0%E1%BB%9Bc%20Ninh%2C%20H%E1%BA%A3i%20Ch%C3%A2u%2C%20%C4%90%C3%A0%20N%E1%BA%B5ng%20550000%2C%20Vietnam!5e0!3m2!1sen!2s!4v1700000000000!5m2!1sen!2s',
+    mapIframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3833.896229388147!2d108.2173166!3d16.0593457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314219cc1a1d95cf%3A0xe744e8ec506ce5be!2s76%20L%C3%AA%20%C4%90%E1%BB%93ng%20D%C6%B0%C6%A1ng%2C%20Ph%C6%B0%E1%BB%9Bc%20Ninh%2C%20H%E1%BA%A3i%20Ch%C3%A2u%2C%20%C4%90%C3%A0%20N%E1%BA%B5ng%20550000%2C%20Vietnam!5e0!3m2!1sen!2s!4v1700000000000!5m2!1sen!2s',
     features: ['Không gian nhiều tầng siêu rộng rãi', 'Ban công lộng gió ngắm trọn vẹn Cầu Rồng', 'Sân khấu Acoustic mộc ấm cúng tối cuối tuần', 'Xưởng tô tượng & xỏ vòng handmade cực chill']
   },
   CS2: {
@@ -46,7 +46,7 @@ const BRANCHES = {
     name: 'CS2: Trạm Học Tập Trung Tâm (Nguyễn Hoàng)',
     address: '191 Nguyễn Hoàng, Nam Dương, Hải Châu, Đà Nẵng',
     phone: '0935 404 465',
-    mapIframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m13!1d3833.9554045558917!2d108.2117564!3d16.0563456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314219b666497f1f%3A0x866380c85c2c4d92!2s191%20Nguy%E1%BB%85n%20Ho%C3%A0ng%2C%20Nam%20D%C6%B0%E1%BB%9Bng%2C%20H%E1%BA%A3i%20Ch%C3%A2u%2C%20%C4%90%C3%A0%20N%E1%BA%B5ng%20550000%2C%20Vietnam!5e0!3m2!1sen!2s!4v1700000000001!5m2!1sen!2s',
+    mapIframe: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3833.9554045558917!2d108.2117564!3d16.0563456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314219b666497f1f%3A0x866380c85c2c4d92!2s191%20Nguy%E1%BB%85n%20Ho%C3%A0ng%2C%20Nam%20D%C6%B0%E1%BB%9Bng%2C%20H%E1%BA%A3i%20Ch%C3%A2u%2C%20%C4%90%C3%A0%20N%E1%BA%B5ng%20550000%2C%20Vietnam!5e0!3m2!1sen!2s!4v1700000000001!5m2!1sen!2s',
     features: ['Bố trí ổ cắm điện mật độ siêu cao tại mỗi bàn', 'Không gian cây xanh dịu mắt, yên tĩnh tuyệt đối', 'Khu vực cabin học tập cá nhân riêng tư', 'Kho boardgame khổng lồ kết nối bạn bè']
   }
 };
