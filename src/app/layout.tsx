@@ -4,7 +4,7 @@ import "./globals.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
-  subsets: ["latin"],
+  subsets: ["latin", "vietnamese"],
 });
 
 const geistMono = Geist_Mono({
@@ -13,8 +13,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TMORE 24/7 — Không Gian Sáng Tạo Không Ngủ Tại Đà Nẵng",
-  description: "Tổ hợp cà phê, nghệ thuật và đồ thủ công mở cửa 24/7 tại Đà Nẵng. Không phụ thu đêm. 2 cơ sở tại Hải Châu.",
+  title: {
+    default: "Freelance Demo",
+    template: "%s | Đà Nẵng",
+  },
+  description: "Trang web giới thiệu dịch vụ tại Đà Nẵng.",
 };
 
 export default function RootLayout({
@@ -23,7 +26,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
+    <html lang="vi" className={`${geistSans.variable} ${geistMono.variable}`} suppressHydrationWarning>
       <body>{children}</body>
     </html>
   );
