@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:maps.app.goo.gl)",
+      "WebFetch(domain:www.google.com)",
+      "WebFetch(domain:mia.vn)",
+      "WebFetch(domain:danang.coffee)",
+      "WebFetch(domain:movemap.net)",
+      "WebFetch(domain:ge-cafe.goto-where.com)",
+      "WebFetch(domain:www.facebook.com)",
+      "WebFetch(domain:huvi.ai)",
+      "Bash(npx tsc *)"
+    ]
+  }
+}
